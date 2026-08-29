@@ -43,3 +43,31 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* Subscribe section */
+.subscribe-section {
+  background-color: #f5f5f5;
+  border-left: 4px solid #2a7ae2;
+  padding: 20px;
+  margin: 30px 0;
+  border-radius: 4px;
+}
+
+.subscribe-section p {
+  margin: 0 0 15px 0;
+  font-weight: 500;
+}
+
+.subscribe-button {
+  display: inline-block;
+  background-color: #2a7ae2;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.subscribe-button:hover {
+  background-color: #1e5ab0;
+}
