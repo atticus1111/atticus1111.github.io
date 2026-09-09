@@ -1,8 +1,16 @@
 At the entrance to the prison is an inscription in chinese that basically says justice, fairness, and lawfulness. Giving future prisoners false hope that their upcoming military trial would go in their favor. Defendants were allowed to have lawyers for these clandestine military, but the lawyers were in cahoots with the military and defendants (shockingly) never won. The jailhouse itself is large, with many rooms where prisoners would crowd in with hardly any room to all lay down. There was a shrine in the middle of the compound for prayer. The prison was also separated into a high security and low security prison. Conditions inside the prison were tough, as were those outside of the prison. Family members knew little of their loved ones, communication was tamped down on and censored.
 
+
+![Entrance to the prison](/assets/images/entrance.jpeg)
+*The original entrance to the prison*
+
+
 "Better to kill a thousand innocent people than let one guilty person escape," was the guiding principle behind this prison. This was a prison for holding innocent people. Under the pretext of safeguarding against communist influence, the KMT instituted martial law. Martial law meant free speech and expression was heavily suppressed, and justice was abandoned. White terror was the same as any modern authoritarian regimes; neighbors spying on each other, repression, disappearances, all under the pretense of order and peace.
 
 Hundreds of thousands of Taiwanese people were imprisoned across the island, but resistance was never eradicated. In 1979 protesters and riot police clashed violently and in the aftermath eight high profile dissidents were arrested. The brutality of the incident, called the Kaohsiung incident, lead to international condemnation and a cry for Taiwan to open its secret trials to the public. These cries, led mostly by US senators, worked, and the trial of the Kaohsiung eight was open to the public. The Kaohsiung incident united Taiwanese opposition movements and played a major role in the country’s democratization. It was built on the backs of many other incidents and movements like the wild lily movement and newspaper publishing personalities like Huang Hsin-Chieh or Nylon Cheng – who self-immolated in protest. Chiang Ching-kuo ended martial law in 1987, and the first free presidential election 1996 marked the true end of martial law.
+
+![Entrance to the prison](/assets/images/monument.jpeg)
+*The monument to the imprisoned and killed by white terror*
 
 Museums like these want to first make you feel the terror and then ask why it happened. I went to a similar museum when I was younger. I felt more disgusted then, now I feel inurned to the violence. But I was young and terror was alien to me. Time makes it easier to recognize people’s capacity for Violence. Violence seems to be the ultimate power, but it is a false one at best. Violence is the epitome of muteness, and power is derived from speech. Taiwan’s human rights exhibits, at this museum and the CKS memorial, want you to come away believing that speech is the truest power by emphasizing the change catalyzed by speech. Today that message feels truer than ever. Control over who sees what and what they see is how people are divided and conquered; it’s always just Willie Lynch theory.
 
