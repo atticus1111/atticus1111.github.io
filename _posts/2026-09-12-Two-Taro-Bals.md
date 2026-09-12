@@ -4,7 +4,7 @@
 *Waiting for the bus late at night*
 ![Late night on the bus](/assets/images/bus2.jpeg)
 *Taking the bus back to my room late at night*
-![Morning on the bus](/assets/images/bus3.jpeg)
+![Morning on the bus](/assets/images/Bus3.jpeg)
 *Taking the bus to my class in at different campus in the morning*
 
 
