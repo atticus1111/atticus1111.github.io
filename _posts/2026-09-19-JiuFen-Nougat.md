@@ -21,9 +21,13 @@ I am reminded of Chinese landscapes, which are incredibly beautiful. I have seen
 I went to the National Palace Museum before going to Jiufen. I describe my favorite of the paintings in the palace museum with the same adjectives as the area around Jiufen. Surrounded by such wonderful landscape, it seems no wonder that the painters rendered such beautiful works. But I think a lot of it is about noticing the ordinary. Being here has made me realize how extraordinary the mountains are back home. I was describing sunset over the flatirons in the fall to a friend earlier, because a sunset over these mountains begets comparison to a sunset back home. There is a majesty to our mountains and plains that isn’t here. Here, the mountains are covered in mist, atmosphere, and clouds with rock faces obscured by trees and greenery. Our mountains stand tall and proud, visible from everywhere. Maybe what makes great artists great, and great adventure great, is the way that we notice the ordinary once again. Lately, I am reminded of Elizibeth Bishops great poem *Questions of Travel*:
 
 There are too many waterfalls here; the crowded streams
+
 hurry too rapidly down to the sea,
+
 and the pressure of so many clouds on the mountaintops
+
 makes them spill over the sides in soft slow-motion,
+
 turning to waterfalls under our very eyes.
 —For if those streaks, those mile-long, shiny, tearstains,
 aren't waterfalls yet,
