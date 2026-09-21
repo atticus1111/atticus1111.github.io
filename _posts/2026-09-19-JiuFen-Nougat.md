@@ -5,7 +5,7 @@ They say that Jiufen inspired Spirited away. They are full of shit. Jiufen is a 
 
 ![JiuFen before sunset](/assets/images/JiuFen.jpeg)
 *Overlooking the coastline from the top of Jiufen*
-![JiuFen during the night](/assets/images/JiuFenStreet.jpeg)
+![JiuFen during the night](/assets/images/JiuFenStreet.jpg)
 *The crouded streets of Jiufen*
 
 
