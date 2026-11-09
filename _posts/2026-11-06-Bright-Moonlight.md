@@ -1,5 +1,8 @@
 Li Bai (or Li Po, among other names) is the most famous Chinese poet. His most famous poem translates too *Quiet Night Thought*. This is my favorite translation
 
+-------------------------------
+
+
 床前明月光
 
 疑是地上霜
@@ -16,6 +19,8 @@ JǔTóu Wàng Míng Yúe
 
 Dī Tóu Sī Gù Xīang
 
+-------------------------------
+
 Before my bed
 
 There is bright moonlight
@@ -31,6 +36,7 @@ I watch the bright moon,
                   Lowering my head
 
 I dream that I am home.
+
 
 This poem was written in the Tang dynasty (around 726 AD), likely when Li Bai was in Chang‘an (now Xi’an), far from his home in Sichuan. Li Bai was a drunkard and a wanderer. He was a poet obsessed with the moon, which appears in many of his poems. His writing process was heavily informed by heavy drinking; he would get drunk with friends, then write. Maybe you can relate to this process. As a lover of the moon and drink, he died in perhaps the most poetic way possible. Here is the story of Li Bai’s death, as I imagine it, so heavily embellished.
 
