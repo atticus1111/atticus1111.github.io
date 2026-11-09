@@ -34,4 +34,4 @@ The day before I hiked into one of the mountains. It was almost 2k of elevation 
 ![](/assets/images/thepeak.jpeg)
 *The peak*
 
-I wondered all day why we climb mountains. I think it is for the same reason that the child asks "Warum bin ich ich und warum nicht du? Warum bin ich hier und warum nicht dort?" (*Why am I me and why not you? Why am I here, and not there?). 
+I wondered all day why we climb mountains. I think it is for the same reason that the child asks "Warum bin ich ich und warum nicht du? Warum bin ich hier und warum nicht dort?" (*Why am I me and why not you? Why am I here, and not there?*). 
