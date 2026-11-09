@@ -1,7 +1,7 @@
-Formation of the Rocky Mountains is, apparently, an unsettled topic in geology. But here is the current theory. Basically, there is a plate boundary over by California. Ages ago the plate under the ocean slid under Cali and formed those mountains. Later, that plate rose again and pushed up the Rockies. Imagine a hog waking up from a long, long slumber and pushing of the accumulated mud from its back. A ridge of hard bone would rise above the mud. That ridge of hard bone is the hard granite that makes up (some of) the Rockies. But this story may not be the case, apparently there may be a hidden rock in the lava instead. Woah.
+Formation of the Rocky Mountains is, apparently, an unsettled topic in geology. But here is the current theory. Basically, there is a plate boundary over by California. Ages ago the plate under the ocean slid under Cali and formed those mountains. Later, that plate rose again and pushed up the Rockies. Imagine a hog waking up from a long, long slumber and pushing of the accumulated mud from its back. A ridge of hard bone would rise above the mud. That ridge of hard bone is the hard granite that makes up (some of) the Rockies. But this story may not be the case, apparently there may be a hidden folded-plate-thingy in the lava instead. Woah.
 
 ![](/assets/images/rockies.jpeg)
-*The Rockeis for reference*
+*The Rockies for reference*
 
 Formation of Taiwan is more settled for geologists, less so for the island. Here, two oceanic plates collided, and this created Taiwan. This collision is still happening, and the island rises little by little each year. Because the island used to be underwater, dead sea creatures deposited their bone-stuff onto the seafloor when they died. With time and pressure, this bone-stuff turned into hard, hard marble. When these ocean plates collided, the marble was forced up almost vertically.
 
